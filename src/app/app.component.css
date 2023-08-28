@@ -1,0 +1,15 @@
+
+/* Border and Padding */
+.custom-border {
+    border: 4px solid green; /* Change 'red' to your desired border color */
+    padding: 10px; /* Adjust padding as needed */
+    border-radius: 10px; 
+  }
+  
+  /* Text Color */
+  .custom-text {
+    color: green; /* Change 'blue' to your desired text color */
+    margin-left: 6%; 
+    font-weight: bold;
+  }
+  
